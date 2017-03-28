@@ -1,0 +1,25 @@
+body {
+  font-family: "arial";
+background-ground: pink;
+text-align: center;
+}
+
+ul {
+
+}
+.title {
+  background-color: #954535;
+  font-family: cursive;
+  font-size: 50px;
+}
+
+.center {
+  width: 570px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.noBullet {
+  width: 400px;
+  list-style: none;
+}
